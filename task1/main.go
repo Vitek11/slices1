@@ -18,4 +18,4 @@ func main() {
 	}
 	fmt.Println(arr)
 	fmt.Println(result)
-}
+ }
